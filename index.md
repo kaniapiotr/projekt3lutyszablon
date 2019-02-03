@@ -1,7 +1,7 @@
 ## Witaj na stronie z szablonem
 
 [Zobacz moje projekty](https://github.com/angular/)
-[Zobacz moje projekty](https://github.com/angular/)
+[inny link](https://github.com/angular/)
 
 You can use the [editor on GitHub](https://github.com/kaniapiotr/projekt3lutyszablon/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
