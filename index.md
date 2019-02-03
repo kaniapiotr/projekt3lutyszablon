@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Witaj na stronie z szablonem
 
 zobacz moje projekty: https://github.com/angular
 
